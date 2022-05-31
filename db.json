@@ -4,8 +4,26 @@
             "id": 1,
             "name": "Grade A+",
             "description": "5.00 - Excellent attainment of learning outcomes",
-            "student_id": "",
-            "image": "ipfs://bafkreifuwwefdl5pyfsk7fifcwextfaqlp2br6whfnbuwzpdpvhubgbkuu"
+            "image": "ipfs://bafkreifuwwefdl5pyfsk7fifcwextfaqlp2br6whfnbuwzpdpvhubgbkuu",
+             "attributes": [ 
+                {
+                  "trait_type": "Student ID", 
+                  "value": "2XXXXXX"
+                },
+                {
+                  "trait_type": "Module Code", 
+                  "value": "ICT2121"
+                }, 
+                {
+                  "trait_type": "Module Name", 
+                  "value": "Introduction to Blockchain"
+                },
+                 , 
+                {
+                  "trait_type": "Re-Evaluation", 
+                  "value": "Not Applicable"
+                },
+            ]
         },
         {
             "id": 2,
@@ -51,7 +69,7 @@
         },
         {
             "id": 8,
-            "name": "Grade C",
+            "name": "Grade C"
             "description": "Very Good attainment of learning outcomes",
             "student_id": "",
             "image": "ipfs://QmPFA4LHu3Qt2TcpxcrKn6PmgFDEXbRgoWVXhzMsdUAAeq"
