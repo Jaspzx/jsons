@@ -2,13 +2,17 @@
     "grades": [
         {
             "id": 1,
-            "name": "Grade A",
+            "name": "Grade A+",
             "description": "5.00 - Excellent attainment of learning outcomes",
             "student_id": "",
             "image": "ipfs://bafkreifuwwefdl5pyfsk7fifcwextfaqlp2br6whfnbuwzpdpvhubgbkuu"
+        },
+        {
+            "id": 2,
+            "name": "Grade A",
+            "description": "5.00 - Excellent attainment of learning outcomes",
+            "student_id": "",
+            "image": "ipfs://QmWX1KZXyosdBMfBW7DYwrouSz43JWqsCVrjYbe4m4n5T2"
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
