@@ -5,7 +5,7 @@
             "name": "Grade A+",
             "description": "5.00 - Excellent attainment of learning outcomes",
             "image": "ipfs://bafkreifuwwefdl5pyfsk7fifcwextfaqlp2br6whfnbuwzpdpvhubgbkuu",
-             "attributes": [ 
+            "attributes": [ 
                 {
                   "trait_type": "Student ID", 
                   "value": "2XXXXXX"
