@@ -13,6 +13,70 @@
             "description": "5.00 - Excellent attainment of learning outcomes",
             "student_id": "",
             "image": "ipfs://QmWX1KZXyosdBMfBW7DYwrouSz43JWqsCVrjYbe4m4n5T2"
+        },
+        {
+            "id": 3,
+            "name": "Grade A-",
+            "description": "5.00 - Excellent attainment of learning outcomes",
+            "student_id": "",
+            "image": "ipfs://QmWX1KZXyosdBMfBW7DYwrouSz43JWqsCVrjYbe4m4n5T2"
+        },
+        {
+            "id": 4,
+            "name": "Grade B+",
+            "description": "Very Good attainment of learning outcomes",
+            "student_id": "",
+            "image": "ipfs://QmWX1KZXyosdBMfBW7DYwrouSz43JWqsCVrjYbe4m4n5T2"
+        },
+        {
+            "id": 5,
+            "name": "Grade B",
+            "description": "Very Good attainment of learning outcomes",
+            "student_id": "",
+            "image": "ipfs://QmWX1KZXyosdBMfBW7DYwrouSz43JWqsCVrjYbe4m4n5T2"
+        },
+        {
+            "id": 6,
+            "name": "Grade B-",
+            "description": "Very Good attainment of learning outcomes",
+            "student_id": "",
+            "image": "ipfs://QmWX1KZXyosdBMfBW7DYwrouSz43JWqsCVrjYbe4m4n5T2"
+        },
+        {
+            "id": 7,
+            "name": "Grade C+",
+            "description": "Good attainment of learning outcomes",
+            "student_id": "",
+            "image": "ipfs://QmPFA4LHu3Qt2TcpxcrKn6PmgFDEXbRgoWVXhzMsdUAAeq"
+        },
+        {
+            "id": 8,
+            "name": "Grade C",
+            "description": "Very Good attainment of learning outcomes",
+            "student_id": "",
+            "image": "ipfs://QmPFA4LHu3Qt2TcpxcrKn6PmgFDEXbRgoWVXhzMsdUAAeq"
+        },
+        {
+            "id": 9,
+            "name": "Grade D+",
+            "description": "Adequate attainment of learning outcomes",
+            "student_id": "",
+            "image": "ipfs://QmPFA4LHu3Qt2TcpxcrKn6PmgFDEXbRgoWVXhzMsdUAAeq"
+        },
+        {
+            "id": 10,
+            "name": "Grade D",
+            "description": "Adequate attainment of learning outcomes",
+            "student_id": "",
+            "image": "ipfs://QmPFA4LHu3Qt2TcpxcrKn6PmgFDEXbRgoWVXhzMsdUAAeq"
+        }
+        ,
+        {
+            "id": 11,
+            "name": "Grade F",
+            "description": "Failed to attain learning outcomes",
+            "student_id": "",
+            "image": "ipfs://QmPFA4LHu3Qt2TcpxcrKn6PmgFDEXbRgoWVXhzMsdUAAeq"
         }
     ]
 }
