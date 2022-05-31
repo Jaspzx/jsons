@@ -25,6 +25,22 @@
             ],
             "attributes": [
                 {
+                  "trait_type": "Student ID", 
+                  "value": "2XXXXXX"
+                },
+                {
+                  "trait_type": "Module Code", 
+                  "value": "ICT2121"
+                }, 
+                {
+                  "trait_type": "Module Name", 
+                  "value": "Introduction to Blockchain"
+                },
+                {
+                  "trait_type": "Feedback", 
+                  "value": "NIL"
+                },
+                {
                   "trait_type": "Re-Evaluation", 
                   "value": "Not Applicable"
                 }
