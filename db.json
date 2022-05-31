@@ -5,7 +5,7 @@
             "name": "Grade A+",
             "description": "5.00 - Excellent attainment of learning outcomes",
             "image": "ipfs://bafkreifuwwefdl5pyfsk7fifcwextfaqlp2br6whfnbuwzpdpvhubgbkuu",
-            "attributes": [ 
+            "traits":[
                 {
                   "trait_type": "Student ID", 
                   "value": "2XXXXXX"
@@ -18,6 +18,8 @@
                   "trait_type": "Module Name", 
                   "value": "Introduction to Blockchain"
                 },
+            ],
+            "attributes": [
                 {
                   "trait_type": "Re-Evaluation", 
                   "value": "Not Applicable"
